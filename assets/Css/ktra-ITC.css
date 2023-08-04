@@ -1,0 +1,14 @@
+@import url('https://fonts.google.com/specimen/Open+Sans?subset=vietnamese');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.header {
+    width: 100%;
+    height: 400px;
+    background-color: aqua;
+}
